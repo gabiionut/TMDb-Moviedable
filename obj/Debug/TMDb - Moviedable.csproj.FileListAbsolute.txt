@@ -1,0 +1,21 @@
+C:\Users\pitig\Documents\C#\TMDb - Moviedable\TMDb - Moviedable\bin\Debug\TMDb - Moviedable.exe.config
+C:\Users\pitig\Documents\C#\TMDb - Moviedable\TMDb - Moviedable\bin\Debug\TMDb - Moviedable.exe
+C:\Users\pitig\Documents\C#\TMDb - Moviedable\TMDb - Moviedable\bin\Debug\TMDb - Moviedable.pdb
+C:\Users\pitig\Documents\C#\TMDb - Moviedable\TMDb - Moviedable\obj\Debug\TMDb___Moviedable.Moviedable.resources
+C:\Users\pitig\Documents\C#\TMDb - Moviedable\TMDb - Moviedable\obj\Debug\TMDb___Moviedable.Properties.Resources.resources
+C:\Users\pitig\Documents\C#\TMDb - Moviedable\TMDb - Moviedable\obj\Debug\TMDb - Moviedable.csproj.GenerateResource.Cache
+C:\Users\pitig\Documents\C#\TMDb - Moviedable\TMDb - Moviedable\obj\Debug\TMDb - Moviedable.csproj.CoreCompileInputs.cache
+C:\Users\pitig\Documents\C#\TMDb - Moviedable\TMDb - Moviedable\obj\Debug\TMDb - Moviedable.exe
+C:\Users\pitig\Documents\C#\TMDb - Moviedable\TMDb - Moviedable\obj\Debug\TMDb - Moviedable.pdb
+C:\Users\pitig\Documents\C#\TMDb - Moviedable\TMDb - Moviedable\bin\Debug\Newtonsoft.Json.dll
+C:\Users\pitig\Documents\C#\TMDb - Moviedable\TMDb - Moviedable\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\pitig\Documents\C#\TMDb - Moviedable\TMDb - Moviedable\bin\Debug\System.Net.Http.dll
+C:\Users\pitig\Documents\C#\TMDb - Moviedable\TMDb - Moviedable\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\pitig\Documents\C#\TMDb - Moviedable\TMDb - Moviedable\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\pitig\Documents\C#\TMDb - Moviedable\TMDb - Moviedable\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\pitig\Documents\C#\TMDb - Moviedable\TMDb - Moviedable\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\pitig\Documents\C#\TMDb - Moviedable\TMDb - Moviedable\bin\Debug\TMDbLib.dll
+C:\Users\pitig\Documents\C#\TMDb - Moviedable\TMDb - Moviedable\bin\Debug\Newtonsoft.Json.xml
+C:\Users\pitig\Documents\C#\TMDb - Moviedable\TMDb - Moviedable\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\pitig\Documents\C#\TMDb - Moviedable\TMDb - Moviedable\obj\Debug\TMDb - Moviedable.csprojResolveAssemblyReference.cache
+C:\Users\pitig\Documents\C#\TMDb - Moviedable\TMDb - Moviedable\bin\Debug\TMDbLib.pdb
