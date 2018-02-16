@@ -58,6 +58,10 @@
             this.pictureBox11 = new System.Windows.Forms.PictureBox();
             this.pictureBox13 = new System.Windows.Forms.PictureBox();
             this.panel7 = new System.Windows.Forms.Panel();
+            this.pictureGenre4 = new System.Windows.Forms.PictureBox();
+            this.pictureGenre3 = new System.Windows.Forms.PictureBox();
+            this.pictureGenre2 = new System.Windows.Forms.PictureBox();
+            this.pictureGenre1 = new System.Windows.Forms.PictureBox();
             this.label7 = new System.Windows.Forms.Label();
             this.label6 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
@@ -75,10 +79,6 @@
             this.pictureBox6 = new System.Windows.Forms.PictureBox();
             this.pictureBox7 = new System.Windows.Forms.PictureBox();
             this.pictureBox8 = new System.Windows.Forms.PictureBox();
-            this.pictureGenre1 = new System.Windows.Forms.PictureBox();
-            this.pictureGenre2 = new System.Windows.Forms.PictureBox();
-            this.pictureGenre3 = new System.Windows.Forms.PictureBox();
-            this.pictureGenre4 = new System.Windows.Forms.PictureBox();
             this.panel1.SuspendLayout();
             this.panel3.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.logo)).BeginInit();
@@ -96,6 +96,10 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox11)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox13)).BeginInit();
             this.panel7.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureGenre4)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureGenre3)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureGenre2)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureGenre1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox9)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
@@ -105,10 +109,6 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox6)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox7)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox8)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureGenre1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureGenre2)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureGenre3)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureGenre4)).BeginInit();
             this.SuspendLayout();
             // 
             // panel1
@@ -476,8 +476,40 @@
             this.panel7.Controls.Add(this.label4);
             this.panel7.Location = new System.Drawing.Point(100, 333);
             this.panel7.Name = "panel7";
-            this.panel7.Size = new System.Drawing.Size(225, 218);
+            this.panel7.Size = new System.Drawing.Size(306, 218);
             this.panel7.TabIndex = 44;
+            // 
+            // pictureGenre4
+            // 
+            this.pictureGenre4.Location = new System.Drawing.Point(20, 43);
+            this.pictureGenre4.Name = "pictureGenre4";
+            this.pictureGenre4.Size = new System.Drawing.Size(29, 33);
+            this.pictureGenre4.TabIndex = 53;
+            this.pictureGenre4.TabStop = false;
+            // 
+            // pictureGenre3
+            // 
+            this.pictureGenre3.Location = new System.Drawing.Point(20, 82);
+            this.pictureGenre3.Name = "pictureGenre3";
+            this.pictureGenre3.Size = new System.Drawing.Size(29, 33);
+            this.pictureGenre3.TabIndex = 52;
+            this.pictureGenre3.TabStop = false;
+            // 
+            // pictureGenre2
+            // 
+            this.pictureGenre2.Location = new System.Drawing.Point(20, 121);
+            this.pictureGenre2.Name = "pictureGenre2";
+            this.pictureGenre2.Size = new System.Drawing.Size(29, 33);
+            this.pictureGenre2.TabIndex = 51;
+            this.pictureGenre2.TabStop = false;
+            // 
+            // pictureGenre1
+            // 
+            this.pictureGenre1.Location = new System.Drawing.Point(20, 160);
+            this.pictureGenre1.Name = "pictureGenre1";
+            this.pictureGenre1.Size = new System.Drawing.Size(29, 33);
+            this.pictureGenre1.TabIndex = 50;
+            this.pictureGenre1.TabStop = false;
             // 
             // label7
             // 
@@ -495,7 +527,7 @@
             this.label6.Font = new System.Drawing.Font("Century Gothic", 13.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label6.Location = new System.Drawing.Point(55, 43);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(84, 27);
+            this.label6.Size = new System.Drawing.Size(80, 25);
             this.label6.TabIndex = 48;
             this.label6.Text = "label6";
             this.label6.Visible = false;
@@ -506,7 +538,7 @@
             this.label3.Font = new System.Drawing.Font("Century Gothic", 13.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label3.Location = new System.Drawing.Point(55, 82);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(84, 27);
+            this.label3.Size = new System.Drawing.Size(80, 25);
             this.label3.TabIndex = 45;
             this.label3.Text = "label3";
             this.label3.Visible = false;
@@ -517,7 +549,7 @@
             this.label5.Font = new System.Drawing.Font("Century Gothic", 13.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label5.Location = new System.Drawing.Point(55, 121);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(84, 27);
+            this.label5.Size = new System.Drawing.Size(80, 25);
             this.label5.TabIndex = 47;
             this.label5.Text = "label5";
             this.label5.Visible = false;
@@ -529,7 +561,7 @@
             this.label4.Font = new System.Drawing.Font("Century Gothic", 13.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label4.Location = new System.Drawing.Point(55, 160);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(84, 27);
+            this.label4.Size = new System.Drawing.Size(80, 25);
             this.label4.TabIndex = 46;
             this.label4.Text = "label4";
             this.label4.Visible = false;
@@ -651,38 +683,6 @@
             this.pictureBox8.TabStop = false;
             this.pictureBox8.Click += new System.EventHandler(this.pictureBox8_Click_1);
             // 
-            // pictureGenre1
-            // 
-            this.pictureGenre1.Location = new System.Drawing.Point(20, 160);
-            this.pictureGenre1.Name = "pictureGenre1";
-            this.pictureGenre1.Size = new System.Drawing.Size(29, 33);
-            this.pictureGenre1.TabIndex = 50;
-            this.pictureGenre1.TabStop = false;
-            // 
-            // pictureGenre2
-            // 
-            this.pictureGenre2.Location = new System.Drawing.Point(20, 121);
-            this.pictureGenre2.Name = "pictureGenre2";
-            this.pictureGenre2.Size = new System.Drawing.Size(29, 33);
-            this.pictureGenre2.TabIndex = 51;
-            this.pictureGenre2.TabStop = false;
-            // 
-            // pictureGenre3
-            // 
-            this.pictureGenre3.Location = new System.Drawing.Point(20, 82);
-            this.pictureGenre3.Name = "pictureGenre3";
-            this.pictureGenre3.Size = new System.Drawing.Size(29, 33);
-            this.pictureGenre3.TabIndex = 52;
-            this.pictureGenre3.TabStop = false;
-            // 
-            // pictureGenre4
-            // 
-            this.pictureGenre4.Location = new System.Drawing.Point(20, 43);
-            this.pictureGenre4.Name = "pictureGenre4";
-            this.pictureGenre4.Size = new System.Drawing.Size(29, 33);
-            this.pictureGenre4.TabIndex = 53;
-            this.pictureGenre4.TabStop = false;
-            // 
             // Moviedable
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
@@ -723,6 +723,10 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox13)).EndInit();
             this.panel7.ResumeLayout(false);
             this.panel7.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureGenre4)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureGenre3)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureGenre2)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureGenre1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox9)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
@@ -732,10 +736,6 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox6)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox7)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox8)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureGenre1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureGenre2)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureGenre3)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureGenre4)).EndInit();
             this.ResumeLayout(false);
 
         }

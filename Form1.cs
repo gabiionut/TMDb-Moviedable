@@ -80,7 +80,7 @@ namespace TMDb___Moviedable
                     client.GetConfig();
 
                     pictureBox.Text = movie.Id.ToString();
-                    pictureBox.ImageLocation = client.GetImageUrl("w150", movie.PosterPath, false).AbsoluteUri;
+                    pictureBox.ImageLocation = client.GetImageUrl("w154", movie.PosterPath, false).AbsoluteUri;
                     if (pictureBox.Image is System.Drawing.Bitmap)
                     {
                         index++;
@@ -109,7 +109,7 @@ namespace TMDb___Moviedable
                 p.Visible = true;
                 client.GetConfig();
                 p.Text = collection.Result.Results[index].Id.ToString();
-                p.ImageLocation = client.GetImageUrl("w150", collection.Result.Results[index].PosterPath, false).AbsoluteUri;
+                p.ImageLocation = client.GetImageUrl("w154", collection.Result.Results[index].PosterPath, false).AbsoluteUri;
 
                 if (p.Image is System.Drawing.Bitmap)
                 {
@@ -137,7 +137,7 @@ namespace TMDb___Moviedable
                 p.Visible = true;
                 client.GetConfig();
 
-                p.ImageLocation = client.GetImageUrl("w150", collection1.Result.Results[index].PosterPath, false).AbsoluteUri;
+                p.ImageLocation = client.GetImageUrl("w154", collection1.Result.Results[index].PosterPath, false).AbsoluteUri;
                 p.Text = collection1.Result.Results[index].Id.ToString();
                 if (p.Image is System.Drawing.Bitmap)
                 {
@@ -165,7 +165,7 @@ namespace TMDb___Moviedable
                 p.Visible = true;
                 client.GetConfig();
 
-                p.ImageLocation = client.GetImageUrl("w150", collection1.Result.Results[index].PosterPath, false).AbsoluteUri;
+                p.ImageLocation = client.GetImageUrl("w154", collection1.Result.Results[index].PosterPath, false).AbsoluteUri;
                 p.Text = collection1.Result.Results[index].Id.ToString();
                 if (p.Image is System.Drawing.Bitmap)
                 {
@@ -191,7 +191,7 @@ namespace TMDb___Moviedable
                 p.Visible = true;
                 client.GetConfig();
 
-                p.ImageLocation = client.GetImageUrl("w150", collection1.Results[index].PosterPath, false).AbsoluteUri;
+                p.ImageLocation = client.GetImageUrl("w154", collection1.Results[index].PosterPath, false).AbsoluteUri;
                 p.Text = collection1.Results[index].Id.ToString();
                 if (p.Image is System.Drawing.Bitmap)
                 {
@@ -209,7 +209,7 @@ namespace TMDb___Moviedable
             {
                 movieTitle.Text = movie.Title;
                 label1.Text = movie.Overview;
-                pictureBox9.ImageLocation = client.GetImageUrl("w150", movie.PosterPath, false).AbsoluteUri;
+                pictureBox9.ImageLocation = client.GetImageUrl("w154", movie.PosterPath, false).AbsoluteUri;
                 DisplayVotes(movie);
                 panel6.Visible = true;
                 panel6.BringToFront();
